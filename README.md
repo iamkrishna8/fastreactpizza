@@ -21,9 +21,4 @@ A responsive pizza ordering web app built entirely with React. Users can browse 
 - Form validation for delivery and payment
 - Live order summary before placing the order
 
-## 📸 Screenshots (optional)
-
-_Add screenshots here if you want to visually showcase the UI._
-
----
 
