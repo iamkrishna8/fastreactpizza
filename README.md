@@ -1,3 +1,46 @@
+<h1 align="center">Hi 👋, I'm Krishna</h1>
+<h3 align="center">A passionate Frontend Developer from India 🇮🇳</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Frontend+Developer;React+%7C+JavaScript+%7C+Node.js" alt="Typing SVG" />
+</p>
+
+---
+
+### 🔥 Tech Stack
+![React](https://img.shields.io/badge/-React-181717?style=for-the-badge&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=krishna123&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishna123&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 🧠 Currently Learning
+- TypeScript
+- Redux Toolkit
+- MongoDB
+
+---
+
+### 📫 How to reach me:
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yourprofile)](https://www.linkedin.com/in/yourprofile)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:your.email@gmail.com)](mailto:your.email@gmail.com)
+
+---
+
+### ⚡ Fun fact
+🎮 I love gaming and building UIs at night 🌙
+
+
+
+
 # 🍕 Fast React Pizza
 
 A fully responsive, interactive pizza ordering web app built entirely with **React**. Users can browse a dynamic menu, add items to their cart, and place orders with live form validation and order tracking.
@@ -79,43 +122,4 @@ Before placing the order, users fill out their delivery info and confirm the fin
 ├── package.json
 └── README.md
 
-<h1 align="center">Hi 👋, I'm Krishna</h1>
-<h3 align="center">A passionate Frontend Developer from India 🇮🇳</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Frontend+Developer;React+%7C+JavaScript+%7C+Node.js" alt="Typing SVG" />
-</p>
-
----
-
-### 🔥 Tech Stack
-![React](https://img.shields.io/badge/-React-181717?style=for-the-badge&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=krishna123&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishna123&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-### 🧠 Currently Learning
-- TypeScript
-- Redux Toolkit
-- MongoDB
-
----
-
-### 📫 How to reach me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yourprofile)](https://www.linkedin.com/in/yourprofile)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:your.email@gmail.com)](mailto:your.email@gmail.com)
-
----
-
-### ⚡ Fun fact
-🎮 I love gaming and building UIs at night 🌙
 
