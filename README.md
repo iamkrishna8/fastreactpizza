@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Krishna</h1>
-<h3 align="center">A passionate Frontend Developer from India 🇮🇳</h3>
+<h3 align="center">A passionate Mern Developer from India 🇮🇳</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Frontend+Developer;React+%7C+JavaScript+%7C+Node.js" alt="Typing SVG" />
@@ -22,21 +22,18 @@
 
 ---
 
-### 🧠 Currently Learning
-- TypeScript
-- Redux Toolkit
-- MongoDB
+
 
 ---
 
 ### 📫 How to reach me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yourprofile)](https://www.linkedin.com/in/yourprofile)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:your.email@gmail.com)](mailto:your.email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yourprofile)]()
+[www.linkedin.com/in/chenchuboina-saikrishna-6aa138299![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:krishnachenchuboina@gmail.com)](mailto:krishnachenchuboina@gmail.com)
 
 ---
 
 ### ⚡ Fun fact
-🎮 I love gaming and building UIs at night 🌙
+🎮 I love  and building UIs at night 🌙
 
 
 
