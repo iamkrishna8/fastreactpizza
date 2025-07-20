@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Krishna</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm SAI KRIHNA CHENCHUBOINA</h1>
 <h3 align="center">Aspiring MERN Stack Developer from India 🇮🇳</h3>
 
 <p align="center">
@@ -29,8 +29,8 @@
 
 ## 📈 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=krishna123&show_icons=true&theme=tokyonight" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishna123&layout=compact&theme=tokyonight" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=iamkrishna8&show_icons=true&theme=tokyonight" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamkrishna8&layout=compact&theme=tokyonight" height="180px" />
 </p>
 
 ---
