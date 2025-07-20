@@ -21,4 +21,14 @@ A responsive pizza ordering web app built entirely with React. Users can browse 
 - Form validation for delivery and payment
 - Live order summary before placing the order
 
+  ## 📸 Project Overview
+
+### 🏠 Homepage
+![Homepage](https://github.com/krishna/fast-react-pizza/<img width="1907" height="887" alt="Screenshot 2025-07-20 115226" src="https://github.com/user-attachments/assets/2ae14ae4-bf78-48a9-8cc5-1d75ddc104fb" />
+)
+
+### 🛒 Cart Page
+![Cart](https://github.com/krishna/fast-react-pizza/raw/main/assets/overview-cart.png)
+
+
 
